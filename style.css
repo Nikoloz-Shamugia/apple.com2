@@ -85,3 +85,54 @@ nav ul li a{
     font-size: 20px;
     color:rgb(56, 56, 255) ;
 }
+.third-section{
+    background-color: black;
+    padding-top: 40px;
+}
+.price{
+    color: white;
+}
+.fourth-section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.wise-words{
+    font-size: 35px;
+    color:rgb(56, 56, 255);
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.information-wrapper span{
+    margin:20px 0;
+}
+.information-wrapper img{
+    margin-bottom: 20px;
+}
+.fifth-section{
+    background-image: url(images/iphone.jpg);
+    border-radius: 40px;
+    height: 814px;
+}
+.film-about-using-iphone{
+    width: 210px;
+    padding: 340px 0px 0px;
+}
+.film-about-using-iphone p{
+    font-size: 35px;
+    color: white;
+}
+.film-about-using-iphone span{
+    font-size: 20px;
+    color: white;
+}
+.film-about-using-iphone button{
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.fifth-section{
+    padding-left: 200px;
+}
